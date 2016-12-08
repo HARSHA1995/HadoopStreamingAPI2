@@ -8,7 +8,7 @@
 * Now we are going to analyze the book set file using hadoop.
 * This is Location we need to dump: http://openlibrary.org/data/ol_dump_works_latest.txt.gz
 
-## Below, i wrote a detailed instructions how to use the code on hadoop server which supports HadoopStreamingAPI
+# Below, i wrote a detailed instructions how to use the code on hadoop server which supports HadoopStreamingAPI
 
 As it has large data(8GB), so we are going to analyse it using hadoop streaming API
 
