@@ -2,7 +2,6 @@
 
 # Hadoop MapReduce Analysis - Books Set
 
-<u> Steps: </u>
 
 * The given data set is available at openlibrary.org.
 * Now we are going to analyze the book set file using hadoop.
