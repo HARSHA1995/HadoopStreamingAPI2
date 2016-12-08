@@ -24,6 +24,6 @@ hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.1.jar -
 
 After successful execution of hadoop jobs, the output statistics can be viewed in hdfs using below command
 
-* To view the output file
+* To view the output files
 
 hdfs dfs -cat /users-cloud-16fs/kattaha/project3-out/output2/part-00000
